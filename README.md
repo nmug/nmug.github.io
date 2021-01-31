@@ -12,4 +12,4 @@ The .NET Users Group is open to any all individuals who are interested in all fa
 
 ### BECOME A MEMBER
 
-As previously mentioned the .NET Users Group is open to any all individuals who are interested in all facets of .NET development and the technologies that are assiociated with it. If you are interested in becoming a business sponsor of our group or becoming an individual member please see our [Membership page](http://65.110.92.142/Membership.aspx) for more information.
+As previously mentioned the .NET Users Group is open to all individuals who are interested in all facets of .NET development and the technologies that are assiociated with it. If you are interested in becoming a business sponsor of our group or becoming an individual member please see our [Membership page](http://65.110.92.142/Membership.aspx) for more information.
